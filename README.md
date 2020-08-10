@@ -1,2 +1,3 @@
-# pascal_pass_generator
+# Pascal Pass Generator
+
 Simply Password generator made in Pascal
